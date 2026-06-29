@@ -1,10 +1,10 @@
 # Interactive-Sales-Dashboard
-Tools Used
+## Tools Used
 Power BI
 Power Query
 DAX
 Data Modeling
-Features
+## Features
 Interactive dashboards
 Drill-through
 Tooltips
@@ -12,7 +12,7 @@ Key Influencers
 KPI Cards
 Slicers
 Custom Measures
-Skills Demonstrated
+## Skills Demonstrated
 Data Transformation
 DAX
 Business Intelligence
